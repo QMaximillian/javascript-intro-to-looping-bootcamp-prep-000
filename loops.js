@@ -20,10 +20,3 @@ if (number === 0) {
   return 'done'
 }
 }
-
-function doWhileLoop(array) {
-  array.pop()
-  do {
-    Math.random() >= 0.5
-  } while
-    array.length > 0 && maybeTrue()
