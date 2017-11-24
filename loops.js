@@ -22,15 +22,10 @@ if (number === 0) {
 }
 
 function doWhileLoop(array) {
-
+return return Math.random() >= 0.5
 do {
   array.pop();
 
-} while function maybeTrue() {
-  return Math.random() >= 0.5
-}
-
-do {
-  console.log('doo-bee-doo-bee-doo')
-} while (maybeTrue());
+} while maybeTrue() {
+  
 }
