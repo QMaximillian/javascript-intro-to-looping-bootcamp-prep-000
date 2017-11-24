@@ -24,9 +24,10 @@ if (number === 0) {
 
 //
 
-function doWhileLoop(array){
-function maybeTrue(){
+function doWhileLoop(array) {
+function maybeTrue() {
   return Math.random() >= 0.5
+}
 do {
   array.slice(1)
 
