@@ -29,7 +29,7 @@ function maybeTrue() {
   return Math.random() >= 0.5
 }
 do {
-  array.slice(1)
+  array = array.slice(1)
 
 } while array.length > 0 && maybeTrue()
 return array
