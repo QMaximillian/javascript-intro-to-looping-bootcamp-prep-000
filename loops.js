@@ -27,5 +27,5 @@ do {
   array.pop();
 
 } while maybeTrue() {
-  
+
 }
