@@ -34,7 +34,7 @@ do {
 }
 
 do {
-  console.log('doo-bee-doo-bee-doo')
+  array.length > 0 && maybeTrue()
 } while (maybeTrue());
 return array
 }
