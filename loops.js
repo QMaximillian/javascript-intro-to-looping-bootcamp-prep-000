@@ -22,7 +22,7 @@ if (number === 0) {
 }
 
 function doWhileLoop(array) {
-return return Math.random() >= 0.5
+return Math.random() >= 0.5
 do {
   array.pop();
 
