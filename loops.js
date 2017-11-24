@@ -25,10 +25,11 @@ if (number === 0) {
 //
 
 function doWhileLoop(array){
-array.pop()
+fucntion maybeTrue(){
 do {
-  return Math.random() >= 0.5);
+  array.pop()
 
 } while array.length > 0 && maybeTrue()
 return array
 }
+
