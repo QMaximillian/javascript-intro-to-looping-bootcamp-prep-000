@@ -22,8 +22,8 @@ if (number === 0) {
 }
 
 function doWhileLoop(array) {
-  return Math.random() >= 0.5
+  array.pop()
   do {
-    array.pop()
+    Math.random() >= 0.5
   } while
-  array.length > 0 && maybeTrue()
+    array.length > 0 && maybeTrue()
